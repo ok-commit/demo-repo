@@ -14,11 +14,14 @@ public class SampleApplicationTests {
 //	}
 
 	@Test
-	public void contexUnloads() {
+	public void contextUnloads() {
 	}
 
 	@Test
 	public void noContextFound() {
 	}
 
+	@Test
+	public void contextDownloads() {
+	}
 }
