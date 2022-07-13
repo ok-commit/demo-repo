@@ -13,4 +13,8 @@ public class SampleApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void contexUnloads() {
+	}
+
 }
