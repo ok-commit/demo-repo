@@ -17,4 +17,8 @@ public class SampleApplicationTests {
 	public void contexUnloads() {
 	}
 
+	@Test
+	public void noContextFound() {
+	}
+
 }
